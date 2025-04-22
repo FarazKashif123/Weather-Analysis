@@ -1,4 +1,5 @@
 🌦️ Weather Analysis using AI
+
 This project focuses on Weather Analysis using Artificial Intelligence, where I explored how AI can be leveraged to analyze, interpret, and predict weather patterns. The goal was to build an intelligent system that can handle historical weather data and provide meaningful insights through visualization and AI-driven prediction models.
 
 🔍 Features
